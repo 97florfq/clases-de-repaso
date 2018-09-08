@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536421296 source:/home/alumno/Descargas/clases-de-repaso/clase de repaso 3 ejercicio 3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
